@@ -1,0 +1,32 @@
+*{
+    background-color: black;
+    overflow-x: hidden;
+}
+.heading{
+    font-family: "Doto", sans-serif;
+    font-weight: 800;
+    color: red;
+}
+.butt{
+    width: 80px !important;
+   
+}
+.button-div{
+    display: flex;
+    justify-content: center;
+    
+   
+}
+.butt1{
+    margin-right: -110px;
+}
+.butt2{
+    margin-left: -110px;
+}
+.text{
+    overflow: hidden;
+    font-family: "Doto", sans-serif;
+    font-weight: 500;
+    color: red;
+
+}
